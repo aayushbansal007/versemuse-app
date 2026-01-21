@@ -20,7 +20,7 @@ Once the initial download (~200MB) is complete, the app functions **100% offline
 
 ## ✨ Features
 
-*   **Offline AI Generation**: Powered by `transformers.js` running `LaMini-GPT-124M` locally in the browser via WebGPU/WASM.
+*   **Offline AI Generation**: Powered by `transformers.js` running `custom LLM` locally in the browser via WebGPU/WASM.
 *   **Distraction-Free Editor**: A clean, paper-like interface designed for focus.
 *   **Local Library**: Save and organize poems using an embedded SQLite database (`sql.js`).
 *   **Smart Suggestions**: Generate poetry based on Topic, Style (Haiku, Sonnet, etc.), and Mood.
@@ -84,4 +84,4 @@ View the full [Privacy Policy](privacy_policy.html).
 
 ---
 
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by Ayush Bansal*
